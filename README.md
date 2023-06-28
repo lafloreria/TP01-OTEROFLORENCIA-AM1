@@ -1,2 +1,2 @@
 # TP01-OTEROFLORENCIA-AM1
-<h3>**El Gato**</h3>
+<h3>El Gato<h3>
