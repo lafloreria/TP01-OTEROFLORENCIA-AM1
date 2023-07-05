@@ -16,9 +16,23 @@
 
 <h6>Descripción: </h6>
 
-* Inspirado en una serie de obras de Charles Csuri, particularmente de *"After André Derain"*, en estas imagenes se retratan el rostro de personas pero con algun tipo de distorsión, a mi punto de vista me parece un concepto gracioso agarrar un objeto y cambiar sus proporciones; en este caso retrate varios gatos con algo de desprolijidad y simpleza con cambios en su fisico, tambíen agregando cambios en los circulos y rectangulos y como toque, sumandole una transición de escalas de grises.
+* Inspirado en una serie de obras de Charles Csuri, particularmente de *"After Cezanne"*, en estas imagenes se retratan el rostro de personas pero con algun tipo de distorsión, a mi punto de vista me parece un concepto gracioso agarrar un objeto y cambiar sus proporciones; en este caso retrate varios gatos con algo de desprolijidad y simpleza con cambios en su fisico, tambíen agregando cambios en los circulos y rectangulos y como toque, sumandole una transición de escalas de grises.
 
 <h6>Desarrollo técnico, estético y conceptual: </h6>
 
 * Csuri al ser unos de los pioneros de arte digital y animación, me parecio interesante combinar estos elementos a traves del codigo, a parte de usar esta distorsion del objeto
+
+
+<h6>Bibliografia: </h6>
+
+* HEINICH, Nathalie. ([2014], 2017). “La obra más allá del objeto” en El paradigma del arte contemporáneo: estructuras de una revolución artística.
+Madrid: Casimiro, pp. 95-119.
+
+* BREA, José Luis. (2002). “Breve (y desordenado) antiglosario –o diccionario de tópicos- sobre el arte electrónico” en La era postmedia. Acción comunicativa, prácticas (post)artísticas y dispositivos neomediales. Salamanca: CASA Editorial, pp. 4-8.
+
+*
+
+![1701912_812b2](https://github.com/lafloreria/TP01-OTEROFLORENCIA-AM1/assets/133812909/1caf847d-b7c4-4000-a20b-fe934317bdae)
+
+
 
